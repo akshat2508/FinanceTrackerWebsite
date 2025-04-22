@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180" height="40" viewBox="0 0 180 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M10 8C6.68629 8 4 10.6863 4 14V26C4 29.3137 6.68629 32 10 32H30C33.3137 32 36 29.3137 36 26V14C36 10.6863 33.3137 8 30 8H10Z" fill="#00FF9D"/>
+  <path d="M20 12V28M14 20H26" stroke="#121212" stroke-width="2" stroke-linecap="round"/>
+  <text x="44" y="25" font-family="Inter, sans-serif" font-size="18" font-weight="600" fill="#121212">Finance Tracker</text>
+</svg>
